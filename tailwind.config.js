@@ -11,6 +11,9 @@ module.exports = {
         pts:{
           blue: "#253B63"
         }
+      },
+      fontFamily: {
+        'inter':['Inter', 'sans-serif'],
       }
     },
   },
