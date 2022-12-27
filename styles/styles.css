@@ -2292,6 +2292,10 @@ video {
     margin-bottom: 1.25rem;
   }
 
+  .md\:w-1\/2 {
+    width: 50%;
+  }
+
   .md\:px-10 {
     padding-left: 2.5rem;
     padding-right: 2.5rem;
