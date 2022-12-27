@@ -1,0 +1,9 @@
+{
+  "name": "ptscorp-eg.com",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
