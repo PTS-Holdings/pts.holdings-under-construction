@@ -1817,10 +1817,6 @@ video {
   font-weight: 700;
 }
 
-.font-medium {
-  font-weight: 500;
-}
-
 .uppercase {
   text-transform: uppercase;
 }
@@ -2287,9 +2283,9 @@ video {
 }
 
 @media (min-width: 768px) {
-  .md\:my-5 {
-    margin-top: 1.25rem;
-    margin-bottom: 1.25rem;
+  .md\:my-8 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
   }
 
   .md\:w-1\/2 {
@@ -2300,11 +2296,9 @@ video {
     padding-left: 2.5rem;
     padding-right: 2.5rem;
   }
-}
 
-@media (min-width: 1024px) {
-  .lg\:w-1\/2 {
-    width: 50%;
+  .md\:font-medium {
+    font-weight: 500;
   }
 }
 
